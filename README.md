@@ -12,7 +12,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
 1. **PHP** (versión 8.1 o superior)
 2. **Composer** (para manejar las dependencias de PHP)
-3. **Laravel** (preferentemente la versión 8 o superior)
+3. **Laravel** (preferentemente la versión 9 o superior)
 4. **Base de datos** (MySQL o cualquier otra compatible con Laravel)
 
 ## Pasos para instalar
